@@ -1,0 +1,22 @@
+#a1 {
+position: absolute;
+top: 300px;
+
+}
+
+#a2 {
+position: absolute;
+left: 1500px;
+top: 300px;
+transform: scale(-1, 1)
+
+}
+
+#a3 {
+
+position: absolute;
+left: 500px;
+color: #FFD700;
+font-size:100px;
+
+}
